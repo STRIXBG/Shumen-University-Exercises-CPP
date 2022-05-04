@@ -1,3 +1,6 @@
+/*
+1. Programa, koqto smqta sumata na cifrite v chislo
+*/
 #include <iostream>
 using namespace std;
 
